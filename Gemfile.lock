@@ -58,6 +58,7 @@ GEM
       zeitwerk (~> 2.2)
     addressable (2.4.0)
     backports (3.15.0)
+    bcrypt (3.1.13)
     bootsnap (1.4.5)
       msgpack (~> 1.0)
     builder (3.2.3)
@@ -187,6 +188,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bcrypt (~> 3.1)
   bootsnap (>= 1.4.2)
   byebug
   listen (>= 3.0.5, < 3.2)
