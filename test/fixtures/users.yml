@@ -5,5 +5,5 @@ one:
   password_digest: MyString
 
 two:
-  email: MyString
-  password_digest: MyString
+  email: two@two.org
+  password_digest: MyString2
