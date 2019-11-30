@@ -1,24 +1,10 @@
-# README
+# Aimee Back-End
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Here is where I practice Ruby on Rails
 
-Things you may want to cover:
+This will be an API for an Ember front-end.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Goals
+1. Practice Ruby on Rails
+1. Set up a User model
+1. {JSON:API} compliant 
