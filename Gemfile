@@ -42,3 +42,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'travis', '~> 1.8', '>= 1.8.10'
 gem 'bcrypt', '~> 3.1'
+
+gem "jwt", "~> 2.2"
